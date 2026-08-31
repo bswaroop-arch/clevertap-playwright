@@ -1,0 +1,324 @@
+{
+  "tagIdList": [
+    1741772307
+  ],
+  "name": "fdsjhf",
+  "convGoal": {
+    "rp": 0,
+    "ct": "4320",
+    "cq": {
+      "ev": 5,
+      "s": [],
+      "e": [],
+      "i": [],
+      "ed": {},
+      "tags": {},
+      "qm_dt": {},
+      "c": {}
+    },
+    "displayValue": 3,
+    "displayUnit": "Days"
+  },
+  "channel": "whatsapp",
+  "provider_id": 1706874134,
+  "qm": {
+    "whoQuery": {
+      "f": 20260510,
+      "t": 20260510,
+      "u": 1,
+      "ev": -1,
+      "wc": {
+        "arr": [
+          {
+            "sx": {
+              "o": 15,
+              "v": [
+                1
+              ],
+              "meta_for_ui": {
+                "segIds": [
+                  1000000085
+                ]
+              }
+            }
+          }
+        ],
+        "and": false
+      },
+      "p": []
+    },
+    "segmentType": "batch",
+    "segmentName": "All Users",
+    "segmentId": "adhoc",
+    "campaignType": "single",
+    "msg": {
+      "_id": "1000offon5000_lkcashplus_8thnov",
+      "templateId": "1000offon5000_lkcashplus_8thnov",
+      "content_api_namespaces": [],
+      "header": {
+        "type": "Image",
+        "media": {
+          "url": "https://db7hsdc8829us.cloudfront.net/dist/1532498688/i/2067fb9f445d4e9c89b5ac8b0bc64a32.jpeg?v=1778426624",
+          "content_type": "image/jpeg",
+          "key": "",
+          "processing": false,
+          "fileName": "unnamed_15.jpg"
+        }
+      },
+      "body": {
+        "type": "Text",
+        "text": "*Double Up on Savings!* \u2728\n\nHi {{1}}, you have *\u20b9{{2}} LK Cash+* waiting in your Lenskart wallet!\n\nAnd here\u2019s more- grab *\u20b91000 OFF on orders over \u20b95000* with code: *{{3}}*\n\nHurry, offer ends {{4}}! TnC\n\n\u23f0 Upgrade your eyewear today and enjoy your exclusive perks.",
+        "replacements": [
+          "23",
+          "3",
+          "5",
+          "5"
+        ]
+      },
+      "footer": {
+        "type": "Text",
+        "text": "If you wish to unsubscribe, reply with STOP."
+      },
+      "buttons": [
+        {
+          "text": "Shop Now",
+          "button_type": "call_to_action",
+          "action_type": "visit_website",
+          "action": {
+            "url_type": "dynamic",
+            "url": "https://1kx.in/"
+          },
+          "replacements": [
+            "f"
+          ]
+        }
+      ],
+      "locale": "en",
+      "customProps": []
+    },
+    "provider_id": 1706874134,
+    "provider_nickname": "generic",
+    "recommendationList": [],
+    "editorConfigured": true,
+    "sendInUserTz": false,
+    "userTzWrapAround": true,
+    "senderTz": null,
+    "startDateTime": 202605172051,
+    "endDateTime": 202605172051,
+    "neverEnd": false
+  },
+  "q": {
+    "f": 20260510,
+    "t": 20260510,
+    "u": 1,
+    "ev": -1,
+    "wc": {
+      "arr": [
+        {
+          "sx": {
+            "o": 15,
+            "v": [
+              1
+            ],
+            "meta_for_ui": {
+              "segIds": [
+                1000000085
+              ]
+            }
+          }
+        }
+      ],
+      "and": false
+    },
+    "p": []
+  },
+  "evq": {
+    "f": 20260510,
+    "t": 20260510,
+    "u": 1,
+    "ev": -1,
+    "wc": {
+      "arr": [
+        {
+          "sx": {
+            "o": 15,
+            "v": [
+              1
+            ],
+            "meta_for_ui": {
+              "segIds": [
+                1000000085
+              ]
+            }
+          }
+        }
+      ],
+      "and": false
+    },
+    "p": []
+  },
+  "estimated": null,
+  "segment_definition": "( User is present in segments with IDs 1000000085 )",
+  "dollar_same_definition": "",
+  "scg": true,
+  "lmt": 100,
+  "msg": {
+    "content_api_namespaces": [],
+    "_id": "1000offon5000_lkcashplus_8thnov",
+    "templateId": "1000offon5000_lkcashplus_8thnov",
+    "header": {
+      "type": "Image",
+      "media": {
+        "url": "https://db7hsdc8829us.cloudfront.net/dist/1532498688/i/2067fb9f445d4e9c89b5ac8b0bc64a32.jpeg?v=1778426624",
+        "content_type": "image/jpeg",
+        "key": "",
+        "processing": false,
+        "fileName": "unnamed_15.jpg"
+      }
+    },
+    "body": {
+      "type": "Text",
+      "text": "*Double Up on Savings!* \u2728\n\nHi {{1}}, you have *\u20b9{{2}} LK Cash+* waiting in your Lenskart wallet!\n\nAnd here\u2019s more- grab *\u20b91000 OFF on orders over \u20b95000* with code: *{{3}}*\n\nHurry, offer ends {{4}}! TnC\n\n\u23f0 Upgrade your eyewear today and enjoy your exclusive perks.",
+      "replacements": [
+        "23",
+        "3",
+        "5",
+        "5"
+      ]
+    },
+    "footer": {
+      "type": "Text",
+      "text": "If you wish to unsubscribe, reply with STOP."
+    },
+    "buttons": [
+      {
+        "text": "Shop Now",
+        "button_type": "call_to_action",
+        "action_type": "visit_website",
+        "action": {
+          "url_type": "dynamic",
+          "url": "https://1kx.in/"
+        },
+        "replacements": [
+          "f"
+        ]
+      }
+    ],
+    "locale": "en",
+    "customProps": []
+  },
+  "provider_nickname": "generic",
+  "isNewFormat": true,
+  "isPivot": false,
+  "type": 10,
+  "tgt_status": 0,
+  "dnd": false,
+  "device": [
+    0
+  ],
+  "deviceTypes": [
+    0
+  ],
+  "content_api_info": {},
+  "selectedCatalogs": {},
+  "recommendationFilters": {},
+  "advance_settings": {
+    "throttlingSetting": {
+      "throttlingApplied": true
+    }
+  },
+  "maxPer5Mins": 500000,
+  "sendInUserTz": false,
+  "userTzWrapAround": true,
+  "senderTz": null,
+  "cfc_setting": {
+    "exclude_global": false,
+    "always": true,
+    "entryLimitsValue": null
+  },
+  "target_type": 1,
+  "startNow": false,
+  "startDateTime": 202605172051,
+  "endDateTime": 202605172051,
+  "neverEnd": false,
+  "precompute": false,
+  "tr_cap": true,
+  "newCampaignUI": true,
+  "dependenciesVerified": {
+    "0": true
+  },
+  "em": {
+    "user": "b.swaroop@lenskart.com",
+    "steps": [
+      {
+        "id": "stepSetup",
+        "complete": true,
+        "expanded": true,
+        "steps": [
+          {
+            "id": "delivery",
+            "complete": true,
+            "expanded": false
+          },
+          {
+            "id": "providers",
+            "complete": true,
+            "expanded": false
+          },
+          {
+            "id": "goals",
+            "complete": true,
+            "expanded": false
+          }
+        ]
+      },
+      {
+        "id": "stepWho",
+        "complete": true,
+        "expanded": true,
+        "steps": [
+          {
+            "id": "segment",
+            "complete": true,
+            "expanded": false
+          },
+          {
+            "id": "capAndControlGroup",
+            "complete": true,
+            "expanded": false
+          }
+        ]
+      },
+      {
+        "id": "stepWhat",
+        "complete": true,
+        "expanded": true,
+        "steps": [
+          {
+            "id": "content",
+            "complete": true,
+            "expanded": false
+          }
+        ]
+      },
+      {
+        "id": "stepWhen",
+        "complete": true,
+        "expanded": true,
+        "steps": [
+          {
+            "id": "dateAndTime",
+            "complete": true,
+            "expanded": false
+          },
+          {
+            "id": "deliverySetup",
+            "complete": true,
+            "expanded": false
+          }
+        ]
+      }
+    ]
+  },
+  "source": "Campaign Dashboard"
+}
